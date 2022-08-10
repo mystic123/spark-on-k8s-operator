@@ -48,7 +48,6 @@ replace (
 	k8s.io/kube-aggregator => k8s.io/kube-aggregator v0.19.6
 	k8s.io/kube-controller-manager => k8s.io/kube-controller-manager v0.19.6
 	k8s.io/kube-proxy => k8s.io/kube-proxy v0.19.6
-	k8s.io/kube-scheduler => k8s.io/kube-scheduler v0.19.6
 	k8s.io/kubectl => k8s.io/kubectl v0.19.6
 	k8s.io/kubelet => k8s.io/kubelet v0.19.6
 	k8s.io/legacy-cloud-providers => k8s.io/legacy-cloud-providers v0.19.6
