@@ -1,4 +1,4 @@
-module github.com/GoogleCloudPlatform/spark-on-k8s-operator
+module github.com/mystic123/spark-on-k8s-operator
 
 go 1.15
 
